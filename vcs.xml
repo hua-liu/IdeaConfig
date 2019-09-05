@@ -1,0 +1,57 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://data.scyl9.com:9999" />
+          <option name="userName" value="lh" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lh@data.scyl9.com:9999/r/mydata.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lh@data.scyl9.com:9999/r/lotteryStation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/beimigame/beimi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sharding-sphere/sharding-sphere-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/incubator-shardingsphere-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/incubator-shardingsphere-example/tree/dev/sharding-jdbc-example/sharding-example/sharding-spring-boot-mybatis-example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hua-liu/incubator-shardingsphere-example.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lh@data.scyl9.com:9999/r/appaction_config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lh@data.scyl9.com:9999/r/SuperAdmin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://lh@data.scyl9.com:9999/r/paySystem.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hua-liu/springbootDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="D:\Users\lh\IdeaProjects" />
+  </component>
+</application>
