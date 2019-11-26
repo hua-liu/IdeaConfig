@@ -1,10 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="licenses" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
