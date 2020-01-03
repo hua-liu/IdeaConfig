@@ -58,6 +58,10 @@
           <option name="url" value="ssh://lh@data.scyl9.com:29418/~denglei/sportBrowse.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lliiuuhhuuaa/trace.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/D:\Users\lh\IdeaProjects" />
