@@ -59,6 +59,9 @@
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
@@ -88,31 +91,13 @@
       <artifact name="Cassandra" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="mysql.8" name="?" driver-class="com.mysql.cj.jdbc.Driver">
+    <driver id="mysql.8" name="mysql" dialect="MySQL" driver-class="com.mysql.cj.jdbc.Driver">
       <artifact name="MySQL Connector/J 8" use="true" version="8.0.15" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
       <code-style-scheme-name>Default</code-style-scheme-name>
-    </driver>
-    <driver id="vertica" name="">
-      <artifact name="Vertica" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hive" name="">
-      <artifact name="Hive" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="greenplum" name="">
-      <artifact name="PostgreSQL" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="snowflake" name="">
-      <artifact name="Snowflake" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
   </component>
 </application>
