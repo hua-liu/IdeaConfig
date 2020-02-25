@@ -29,5 +29,8 @@
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="todo" expression="arrayVariable()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
   </template>
 </templateSet>
