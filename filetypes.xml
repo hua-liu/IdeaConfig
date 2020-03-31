@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="bet" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
