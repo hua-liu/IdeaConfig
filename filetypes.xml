@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="py" type="PLAIN_TEXT" />
-      <mapping ext="bet" type="PLAIN_TEXT" />
       <mapping ext="bet" type="PLAIN_TEXT" />
       <mapping pattern="filepaths" type="XML" />
     </extensionMap>
