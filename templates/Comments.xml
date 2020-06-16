@@ -1,11 +1,9 @@
 <templateSet group="Comments">
-  <template name="/***" value="/**&#10; * @do $input$&#10; * @author $user$&#10; * @date $date$ $time$&#10; * $param$&#10; * @return $return$&#10; */" shortcut="ENTER" description="添加方法注释" toReformat="false" toShortenFQNames="true">
-    <variable name="input" expression="arrayVariable()" defaultValue="" alwaysStopAt="true" />
+  <template name="/***" value="/**&#10; * @do $input$&#10; * @author $user$&#10; * @date $date$ $time$&#10; */" shortcut="ENTER" description="添加方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
-    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=(i==0 ? '@param ' : ' * @param ') + params[i] + ': ' + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
