@@ -1,3 +1,5 @@
 <templateSet group="Zen CSS">
-  <template name="wid" value="widows: $END$;" description="widows:...;" toReformat="true" toShortenFQNames="true" />
+  <template name="wid" value="widows: $END$;" description="widows:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
