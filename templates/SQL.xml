@@ -3,5 +3,6 @@
     <variable name="table" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="columns" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <variable name="info" expression="showParameterInfo()" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
