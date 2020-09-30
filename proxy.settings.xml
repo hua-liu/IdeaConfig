@@ -1,6 +1,6 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_PROXY_PAC" value="true" />
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
     <option name="PROXY_HOST" value="ubuntu.buct.edu.cn" />
   </component>
 </application>
