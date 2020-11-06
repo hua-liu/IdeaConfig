@@ -14,9 +14,13 @@
           <option name="url" value="http://192.168.195.235" />
           <option name="userName" value="liuhua" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.195.235/liuhua/ops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Users\lh\IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/idea" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
