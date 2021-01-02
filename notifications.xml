@@ -1,6 +1,3 @@
 <application>
-  <component name="NotificationConfiguration" showBalloons="false">
-    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
-  </component>
+  <component name="NotificationConfiguration" showBalloons="false" />
 </application>
