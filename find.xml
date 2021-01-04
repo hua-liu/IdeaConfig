@@ -12,6 +12,7 @@
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*Constant.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
