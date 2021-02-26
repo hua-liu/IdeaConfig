@@ -1,0 +1,14 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-05-10T09:12:49</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2019-05-10T14:01:06</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
+    </option>
+  </attributes>
+</scheme>
