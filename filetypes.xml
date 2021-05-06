@@ -6,6 +6,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="licenses" type="PLAIN_TEXT" />
+      <mapping ext="lh" type="PLAIN_TEXT" />
       <mapping ext="bet" type="PLAIN_TEXT" />
       <mapping pattern="filepaths" type="XML" />
     </extensionMap>
