@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="testt" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="days" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="licenses" type="PLAIN_TEXT" />
