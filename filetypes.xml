@@ -7,6 +7,7 @@
       <mapping pattern="days" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="licenses" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="lh" type="PLAIN_TEXT" />
