@@ -1,19 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="updateChildMappertxt" type="PLAIN_TEXT" />
       <mapping pattern="testt" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="days" type="PLAIN_TEXT" />
-      <mapping ext="bet" type="PLAIN_TEXT" />
-      <mapping ext="licenses" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="updateChildMappertxt" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="mht" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="licenses" type="PLAIN_TEXT" />
       <mapping ext="lh" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="bet" type="PLAIN_TEXT" />
       <mapping pattern="filepaths" type="XML" />
     </extensionMap>
   </component>
