@@ -82,6 +82,10 @@
           <option name="url" value="https://code.wankaisoft.com/liuhua/eval-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code.cdthgk.com" />
+          <option name="userName" value="liuhua" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/idea" />
