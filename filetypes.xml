@@ -15,6 +15,17 @@
       <mapping ext="lh" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping pattern="filepaths" type="XML" />
+      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
+      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
