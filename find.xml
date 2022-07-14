@@ -14,5 +14,6 @@
     <mask>*.xml</mask>
     <mask>*VO.java</mask>
     <mask>*ServiceImpl.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
