@@ -1,4 +1,8 @@
 <keymap version="1" name="macOS System Shortcuts copy" parent="macOS System Shortcuts">
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
@@ -9,6 +13,7 @@
   <action id="PopupMenu-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
+  <action id="QuickImplementations" />
   <action id="Tree-selectNext">
     <keyboard-shortcut first-keystroke="down" />
   </action>
